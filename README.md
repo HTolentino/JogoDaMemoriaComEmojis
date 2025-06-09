@@ -4,6 +4,6 @@ Bem vindo(a) ao resultado do meu segundo desafio na Trilha de Lógica de program
 
 Também deixei o jogo com um design mais responsivo, permitindo que seja utilizado tanto em aparelhos desktop quanto em aparelhos mobile. 
 
-[Clique aqui]() para acessar o resultado final da página criada por mim a partir do desafio da DIO!
+[Clique aqui](https://htolentino.github.io/JogoDaMemoriaComEmojis/) para acessar o resultado final da página criada por mim a partir do desafio da DIO!
 
 ![image](./src/images/resultado.png)
